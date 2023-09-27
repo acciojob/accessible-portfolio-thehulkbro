@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+.main{
+	background-color: gray;
+	text-align:center;
+}
+.image{
+	width:400px;
+}
